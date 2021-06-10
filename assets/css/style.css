@@ -68,6 +68,7 @@ p {
   margin-left: 20px;
 }
 
+/* Benefits Section Styles */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -100,6 +101,7 @@ p {
   max-width: 150px;
 }
 
+/* Content Section Styles */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
